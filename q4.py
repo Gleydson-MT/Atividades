@@ -5,5 +5,3 @@ for i in range(1, 6):
         print(i)
         if i == 5:
             print(f"O número {i}, é o maior de todos.")
-        else:
-            print("")
