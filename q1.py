@@ -3,7 +3,7 @@ while True:
     nota = int(input("Digite uma nota entre 0 e 10: "))
     if nota < 0 or nota > 10:
         print("DIGITE UMA NOTA VÁLIDA")
-        continue
+        
     else:
         print(f"Agradeçemos seu feedback!")
         break
