@@ -1,5 +1,5 @@
 #14. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.
-
+soma = 0
 qtd_pares = 0
 qtd_impar = 0
 for i in range(10):
@@ -8,5 +8,7 @@ for i in range(10):
         qtd_pares +=1
     if num %2 != 0:
         qtd_impar +=1
+    soma += num
 else:
+    print(f"A soma dos números é {soma}")
     print(f"Há {qtd_pares}, números pares e {qtd_impar}, números impar.")
