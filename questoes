@@ -5,3 +5,5 @@
 9. Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
 14. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.
 28. Faça um programa que calcule o valor total investido por um colecionador em sua coleção de CDs e o valor médio gasto em cada um deles. O usuário deverá informar a quantidade de CDs e o valor para cada um
+#23. Faça um programa que mostre todos os primos entre 1 e N sendo N um número inteiro fornecido pelo usuário. O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos. Serão avaliados o funcionamento, o estilo e o número de testes (divisões) executados.
+# 12. Desenvolva um gerador de tabuada, capaz de gerar uma tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar qual número ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo:
